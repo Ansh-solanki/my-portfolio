@@ -10,7 +10,7 @@ Check out the live version here: [https://ansh-solanki.github.io/my-portfolio](h
 
 ## 📸 Screenshots
 
-![Portfolio Screenshot](D:/Portfolio/screenshots/home.png) <!-- Upload a screenshot image and change the name if needed -->
+![Portfolio Screenshot](/screenshots/home.png) <!-- Upload a screenshot image and change the name if needed -->
 
 ## ✨ Features
 
