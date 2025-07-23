@@ -10,7 +10,7 @@ Check out the live version here: [https://ansh-solanki.github.io/my-portfolio](h
 
 ## 📸 Screenshots
 
-![Portfolio Screenshot](screenshot.png) <!-- Upload a screenshot image and change the name if needed -->
+![Portfolio Screenshot](D:/Portfolio/screenshots/home.png) <!-- Upload a screenshot image and change the name if needed -->
 
 ## ✨ Features
 
@@ -27,4 +27,31 @@ Check out the live version here: [https://ansh-solanki.github.io/my-portfolio](h
 - JavaScript
 
 ## 📁 Folder Structure
+my-portfolio/
+│
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+│ └── images, icons, etc.
+└── README.md
+
+
+## 📬 Contact
+
+- 📧 anshsolanki333@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/ansh-solanki-762282300)
+- 📱 +91 7982769568
+
+## 🙌 Acknowledgements
+
+Thanks for visiting! Feel free to fork, clone, or reach out.
+
+---
+
+### ✅ Tips:
+- Add a screenshot (`screenshot.png`) to make it visually appealing.
+- Keep it neat and professional — recruiters do check the README!
+
+Would you like me to generate this README file automatically and upload it to your repo for you?
 
